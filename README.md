@@ -16,11 +16,7 @@ Test:
 npm test
 ```
 
-Test specific file:
-
-```bash
-npm test sum.test.js
-```
+Test specific file: `npm test sum.test.js` OR `npm test sum`
 
 Test with in depth coverage:
 
