@@ -34,6 +34,8 @@ npm run test:watch
 
 - _`test:coverage` will generate a "lcov-report" directory with reports in html files (index.html), useful if you need to show the results to your colleagues_
 
+- _You can also skip tests with `test.skip()` method_
+
 ## Unit testing
 
 While using Jest, it is recommended to use the technique of [unit testing](https://en.wikipedia.org/wiki/Unit_testing)
