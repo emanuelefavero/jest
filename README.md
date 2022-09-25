@@ -16,6 +16,12 @@ Test:
 npm test
 ```
 
+Test specific file:
+
+```bash
+npm test sum.test.js
+```
+
 Test with in depth coverage:
 
 ```bash
